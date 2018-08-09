@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "star",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0.5166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": 2
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0.5166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": 2
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0.5166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": 180
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.5166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 200
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6d818509-64fd-4166-88bb-82224dd835f0",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"qipai_1_tex.png\",\"height\":1024,\"name\":\"qipai_1\",\"SubTexture\":[{\"width\":163,\"y\":1,\"height\":515,\"name\":\"sti\",\"x\":1},{\"width\":168,\"y\":724,\"height\":92,\"name\":\"zshou\",\"x\":1},{\"width\":88,\"y\":518,\"height\":204,\"name\":\"yshou\",\"x\":150},{\"width\":147,\"y\":518,\"height\":195,\"name\":\"toufa\",\"x\":1},{\"width\":39,\"y\":724,\"height\":38,\"name\":\"zuo\",\"x\":171},{\"width\":23,\"y\":724,\"height\":49,\"name\":\"you_\",\"x\":212}]}",
+  "texture": "61a15a83-b6e1-42e5-8846-1be229562dc5",
+  "subMetas": {}
+}

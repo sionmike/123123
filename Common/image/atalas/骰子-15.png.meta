@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b1abad43-77f6-4447-a467-48b3224ff4b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "骰子-15": {
+      "ver": "1.0.3",
+      "uuid": "cddc2596-2de8-4087-8fbe-bc150339a220",
+      "rawTextureUuid": "b1abad43-77f6-4447-a467-48b3224ff4b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 70,
+      "height": 74,
+      "rawWidth": 72,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

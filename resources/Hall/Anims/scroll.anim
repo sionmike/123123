@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "scroll",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 10,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 380
+        },
+        {
+          "frame": 0.6,
+          "value": -440
+        },
+        {
+          "frame": 1,
+          "value": -800
+        }
+      ]
+    }
+  },
+  "events": []
+}

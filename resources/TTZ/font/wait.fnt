@@ -1,0 +1,26 @@
+info face="Microsoft YaHei UI" size=24 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=24 base=18 scaleW=1024 scaleH=1025 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="wait_0.png"
+chars count=22
+char id=40   x=819   y=0     width=25    height=52    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=41   x=845   y=0     width=25    height=52    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=44   x=896   y=0     width=19    height=52    xoffset=0     yoffset=0     xadvance=19    page=0  chnl=15
+char id=48   x=0     y=0     width=35    height=53    xoffset=0     yoffset=0     xadvance=35    page=0  chnl=15
+char id=49   x=871   y=0     width=24    height=52    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=50   x=755   y=0     width=31    height=52    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=51   x=722   y=0     width=32    height=52    xoffset=0     yoffset=0     xadvance=32    page=0  chnl=15
+char id=52   x=787   y=0     width=31    height=52    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=53   x=617   y=0     width=35    height=52    xoffset=0     yoffset=0     xadvance=35    page=0  chnl=15
+char id=54   x=653   y=0     width=34    height=52    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=55   x=688   y=0     width=33    height=52    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=56   x=541   y=0     width=37    height=52    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=57   x=579   y=0     width=37    height=52    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=19968 x=434   y=0     width=53    height=52    xoffset=0     yoffset=0     xadvance=53    page=0  chnl=15
+char id=19979 x=269   y=0     width=54    height=52    xoffset=0     yoffset=0     xadvance=54    page=0  chnl=15
+char id=20013 x=488   y=0     width=52    height=52    xoffset=0     yoffset=0     xadvance=52    page=0  chnl=15
+char id=23616 x=324   y=0     width=54    height=52    xoffset=0     yoffset=0     xadvance=54    page=0  chnl=15
+char id=24453 x=98    y=0     width=56    height=52    xoffset=0     yoffset=0     xadvance=56    page=0  chnl=15
+char id=31561 x=155   y=0     width=56    height=52    xoffset=0     yoffset=0     xadvance=56    page=0  chnl=15
+char id=31639 x=212   y=0     width=56    height=52    xoffset=0     yoffset=0     xadvance=56    page=0  chnl=15
+char id=32467 x=379   y=0     width=54    height=52    xoffset=0     yoffset=0     xadvance=54    page=0  chnl=15
+char id=35831 x=36    y=0     width=61    height=52    xoffset=0     yoffset=0     xadvance=61    page=0  chnl=15

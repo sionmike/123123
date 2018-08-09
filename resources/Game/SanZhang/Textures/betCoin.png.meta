@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "30e2cb23-91af-4d6b-916c-6fe4ef068799",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "betCoin": {
+      "ver": "1.0.3",
+      "uuid": "8762f735-b0bb-497d-8a93-1786937230e4",
+      "rawTextureUuid": "30e2cb23-91af-4d6b-916c-6fe4ef068799",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 35,
+      "trimX": 5,
+      "trimY": 5,
+      "width": 116,
+      "height": 176,
+      "rawWidth": 128,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

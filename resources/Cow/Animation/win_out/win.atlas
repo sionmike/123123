@@ -1,0 +1,27 @@
+
+win.png
+size: 869,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cup
+  rotate: true
+  xy: 697, 1
+  size: 285, 171
+  orig: 285, 171
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 1, 27
+  size: 694, 695
+  orig: 694, 695
+  offset: 0, 0
+  index: -1
+streamer
+  rotate: true
+  xy: 697, 288
+  size: 434, 105
+  orig: 434, 105
+  offset: 0, 0
+  index: -1

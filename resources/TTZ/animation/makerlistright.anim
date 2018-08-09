@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "makerlistright",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1040,
+            4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0,
+          "value": [
+            -965,
+            0
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0,
+          "value": [
+            -297,
+            0
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0,
+          "value": [
+            -1041,
+            4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": [
+            -296,
+            0
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "slowup",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": 0
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": 0
+        },
+        {
+          "frame": 0.7333333333333333,
+          "value": 40
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": 255
+        },
+        {
+          "frame": 0.7333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
